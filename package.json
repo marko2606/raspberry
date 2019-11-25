@@ -1,0 +1,16 @@
+{
+  "name": "nodeplay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "temp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-dht-sensor": "0.0.34",
+    "rpi-dht-sensor": "^0.1.1",
+    "rpi-gpio": "^1.0.0"
+  }
+}
